@@ -1,0 +1,50 @@
+.kursiv {
+    font-style: italic;
+}
+
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+
+TABLE {
+    width: 600px; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+
+}
+
+TD, TH {
+
+    text-align: left;
+
+    width: 160px;
+}
+
+.subtitle {
+    font-size: 1.5em;
+}
+
+.subtitle2 {
+    font-size: 0.9em;
+    font-weight: 300;
+}
+
+.subtitle3 {
+    font-size: large;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.subtitle4 {
+    font-weight: 500;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+hr {
+    color: lightgrey;
+}
