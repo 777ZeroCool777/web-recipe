@@ -1,11 +1,29 @@
 .kursiv {
     font-style: italic;
+    font-size: 0.9em;
 }
 
 
 .wrapper {
     width: 600px;
     margin: 0 auto;
+}
+
+.width_table {
+    width: 600px;
+}
+
+.div_width {
+    border-bottom: inset;
+    border-width: 1px;
+}
+
+.gray {
+    color: gray;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
 }
 
 
