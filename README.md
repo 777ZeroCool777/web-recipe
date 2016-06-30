@@ -1,3 +1,3 @@
 ### Описание
 
-[Веб-страничка с рецептом сырников](http://777zerocool777.github.io/web-recipe)
+[Веб-страничка с рецептом сырников](http://exwarvlad.github.io/web-recipe)
